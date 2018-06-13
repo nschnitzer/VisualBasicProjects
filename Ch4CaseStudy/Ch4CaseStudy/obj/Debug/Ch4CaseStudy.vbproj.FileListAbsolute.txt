@@ -1,0 +1,11 @@
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\bin\Debug\Ch4CaseStudy.exe.config
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\bin\Debug\Ch4CaseStudy.exe
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\bin\Debug\Ch4CaseStudy.pdb
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\bin\Debug\Ch4CaseStudy.xml
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.vbprojResolveAssemblyReference.cache
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.Form1.resources
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.Resources.resources
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.vbproj.GenerateResource.Cache
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.exe
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.xml
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Ch4CaseStudy\Ch4CaseStudy\obj\Debug\Ch4CaseStudy.pdb

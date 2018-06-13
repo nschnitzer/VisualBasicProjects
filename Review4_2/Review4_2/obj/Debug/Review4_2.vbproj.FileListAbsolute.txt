@@ -1,0 +1,10 @@
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\bin\Debug\Review4_2.exe.config
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\bin\Debug\Review4_2.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\bin\Debug\Review4_2.pdb
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\bin\Debug\Review4_2.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\obj\Debug\Review4_2.Form1.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\obj\Debug\Review4_2.Resources.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\obj\Debug\Review4_2.vbproj.GenerateResource.Cache
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\obj\Debug\Review4_2.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\obj\Debug\Review4_2.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Review4_2\Review4_2\obj\Debug\Review4_2.pdb

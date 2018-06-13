@@ -1,0 +1,10 @@
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\bin\Debug\Excercise6_15.exe.config
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\bin\Debug\Excercise6_15.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\bin\Debug\Excercise6_15.pdb
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\bin\Debug\Excercise6_15.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\obj\Debug\Excercise6_15.Form1.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\obj\Debug\Excercise6_15.Resources.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\obj\Debug\Excercise6_15.vbproj.GenerateResource.Cache
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\obj\Debug\Excercise6_15.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\obj\Debug\Excercise6_15.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise6_15\Excercise6_15\obj\Debug\Excercise6_15.pdb

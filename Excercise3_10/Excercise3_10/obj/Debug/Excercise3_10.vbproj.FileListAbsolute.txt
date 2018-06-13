@@ -1,0 +1,11 @@
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\bin\Debug\Excercise3_10.exe.config
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.Form1.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.Resources.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.vbproj.GenerateResource.Cache
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\bin\Debug\Excercise3_10.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\bin\Debug\Excercise3_10.pdb
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\bin\Debug\Excercise3_10.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.pdb
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\Excercise3_10\Excercise3_10\obj\Debug\Excercise3_10.vbprojResolveAssemblyReference.cache
